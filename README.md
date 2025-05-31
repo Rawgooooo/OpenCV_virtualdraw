@@ -1,7 +1,7 @@
 # OpenCV_virtualdraw
 
-Mini Open CV project inspired by other projects on Yt and courses.
-You can virtually draw on camera.
+Mini Open CV project inspired by other projects on Yt and courses.\
+You can virtually draw on camera.\
 C- changes color, E- erases.
 
 
